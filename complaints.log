@@ -1,0 +1,398 @@
+2023-07-31 16:08:30,520 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:08:30,572 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:08:30,573 - get_complaints - ERROR - Error fetching complaints: Object of type ObjectId is not JSON serializable
+2023-07-31 16:08:30,780 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:08:30,832 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:08:30,833 - get_complaints - ERROR - Error fetching complaints: Object of type ObjectId is not JSON serializable
+2023-07-31 16:12:03,138 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:12:03,188 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:12:03,188 - get_complaints - ERROR - Error fetching complaints: Object of type ObjectId is not JSON serializable
+2023-07-31 16:12:03,498 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:12:03,546 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:12:03,546 - get_complaints - ERROR - Error fetching complaints: Object of type ObjectId is not JSON serializable
+2023-07-31 16:22:54,013 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:22:54,086 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:22:54,262 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:22:54,322 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:23:53,710 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:23:53,764 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 16:23:53,975 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:23:54,023 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 16:25:46,360 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:25:46,408 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:25:46,720 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:25:46,766 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:25:58,830 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:25:58,876 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 16:25:59,204 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 16:25:59,250 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-07-31 18:40:26,574 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 18:40:26,626 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 18:40:26,937 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 18:40:26,986 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 18:57:27,986 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 18:57:28,034 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 18:58:32,000 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 18:58:32,059 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 18:59:14,663 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 18:59:14,720 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 18:59:15,039 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 18:59:15,101 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 19:15:35,990 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 19:15:36,034 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 19:15:52,940 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 19:15:53,001 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 19:15:53,314 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 19:15:53,367 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 20:22:24,126 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 20:22:24,178 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 20:58:38,892 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 20:58:39,200 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-07-31 20:58:56,099 - get_complaints - DEBUG - get_complaints function called
+2023-07-31 20:58:56,138 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 09:23:55,817 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:23:55,856 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 09:23:56,077 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:23:56,112 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 09:26:05,094 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:26:05,130 - get_complaints - DEBUG - Number of complaints retrieved: 4
+2023-08-01 09:26:05,447 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:26:05,483 - get_complaints - DEBUG - Number of complaints retrieved: 4
+2023-08-01 09:33:52,546 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:33:52,586 - get_complaints - DEBUG - Number of complaints retrieved: 4
+2023-08-01 09:33:53,158 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:33:53,203 - get_complaints - DEBUG - Number of complaints retrieved: 4
+2023-08-01 09:33:53,422 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:33:53,464 - get_complaints - DEBUG - Number of complaints retrieved: 4
+2023-08-01 09:38:45,057 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:38:45,100 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:38:45,692 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:38:45,734 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:38:45,957 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:38:45,999 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:42:51,610 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:42:51,652 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:42:52,244 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:42:52,287 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:42:52,505 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:42:52,553 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:47:39,979 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:47:40,026 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:47:40,452 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:47:40,496 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:47:40,716 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:47:40,762 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 09:59:49,858 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 09:59:49,902 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:00:07,187 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:00:07,231 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:00:07,730 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:00:07,775 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:00:07,997 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:00:08,042 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:03:57,755 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:03:57,801 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:03:57,802 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:03:57,802 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:03:57,803 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:03:57,803 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:03:58,422 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:03:58,471 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:03:58,472 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:03:58,472 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:03:58,472 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:03:58,473 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:03:58,670 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:03:58,719 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:03:58,719 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:03:58,719 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:03:58,719 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:03:58,719 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:06:11,491 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:06:11,537 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:06:11,537 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:06:11,538 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:06:11,538 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:06:11,538 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:06:12,074 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:06:12,122 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:06:12,123 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:06:12,123 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:06:12,123 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:06:12,125 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:06:12,338 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:06:12,388 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:06:12,389 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:06:12,389 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:06:12,389 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:06:12,390 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:10:47,931 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:10:47,983 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:10:47,983 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:10:47,983 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:10:47,983 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:10:47,984 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:11:19,923 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:11:19,980 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:11:19,980 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:11:19,982 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:11:19,983 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:11:19,985 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:11:36,212 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:11:36,266 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:11:36,267 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:11:36,267 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:11:36,267 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:11:36,268 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:11:36,578 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:11:36,637 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:11:36,637 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:11:36,637 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:11:36,637 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:11:36,639 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:11:36,963 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:11:37,016 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:11:37,017 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:11:37,017 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:11:37,017 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:11:37,018 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:37:03,594 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:37:03,648 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:37:03,648 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:37:03,648 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:37:03,649 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:37:03,649 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:37:03,903 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:37:03,952 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:37:03,953 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:37:03,953 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:37:03,953 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:37:03,953 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:37:04,279 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:37:04,327 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:37:04,327 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:37:04,327 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:37:04,328 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:37:04,328 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:37:41,633 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:37:41,684 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:37:41,686 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:37:41,686 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:37:41,686 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:37:41,686 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:37:41,937 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:37:41,985 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:37:41,985 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:37:41,985 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:37:41,986 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:37:41,986 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:37:42,302 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:37:42,353 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:37:42,353 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:37:42,354 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:37:42,354 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:37:42,354 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:41:59,534 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:41:59,585 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:41:59,586 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:41:59,586 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:41:59,586 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:41:59,586 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:41:59,817 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:41:59,871 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:41:59,871 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:41:59,871 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:41:59,872 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:41:59,872 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 10:42:00,184 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 10:42:00,237 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 10:42:00,237 - get_complaints - DEBUG - Complaints data:
+2023-08-01 10:42:00,238 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 10:42:00,238 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 10:42:00,238 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:32:03,674 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:32:03,717 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:32:03,718 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:32:03,718 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:32:03,718 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:32:03,719 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:32:03,920 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:32:03,957 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:32:03,957 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:32:03,957 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:32:03,957 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:32:03,958 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:32:04,091 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:32:04,144 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:32:04,146 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:32:04,146 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:32:04,146 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:32:04,146 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:32:14,017 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:32:14,055 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:32:14,055 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:32:14,055 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:32:14,055 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:32:14,055 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:32:14,283 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:32:14,322 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:32:14,323 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:32:14,323 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:32:14,323 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:32:14,324 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:32:14,406 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:32:14,443 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:32:14,443 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:32:14,443 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:32:14,443 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:32:14,443 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:46:05,490 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:46:05,526 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:46:05,526 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:46:05,527 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:46:05,527 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:46:05,527 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:46:05,923 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:46:05,961 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:46:05,962 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:46:05,962 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:46:05,962 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:46:05,963 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:46:06,168 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:46:06,204 - get_complaints - DEBUG - Number of complaints retrieved: 3
+2023-08-01 11:46:06,205 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:46:06,205 - get_complaints - DEBUG - {'_id': ObjectId('64c8821872ccfa69159d37d1'), 'name': 'user1', 'aadhaar': '984562031756', 'phoneNumber': '8304038957', 'address': 'house 1', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'gjgjgj'}
+2023-08-01 11:46:06,206 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:46:06,206 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:48:18,485 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:48:18,523 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 11:48:18,523 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:48:18,523 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:48:18,523 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:48:18,919 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:48:18,959 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 11:48:18,959 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:48:18,960 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:48:18,960 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:48:19,165 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:48:19,204 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 11:48:19,204 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:48:19,204 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:48:19,205 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:57:38,696 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:57:38,741 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 11:57:38,741 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:57:38,741 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:57:38,741 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:57:39,114 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:57:39,164 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 11:57:39,165 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:57:39,165 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:57:39,166 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 11:57:39,379 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 11:57:39,417 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 11:57:39,418 - get_complaints - DEBUG - Complaints data:
+2023-08-01 11:57:39,418 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh'}
+2023-08-01 11:57:39,418 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 12:01:37,149 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:01:37,195 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 12:01:37,195 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:01:37,195 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh', 'isSolved': True}
+2023-08-01 12:01:37,196 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv', 'isSolved': True}
+2023-08-01 12:01:37,566 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:01:37,605 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 12:01:37,606 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:01:37,606 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh', 'isSolved': True}
+2023-08-01 12:01:37,606 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv', 'isSolved': True}
+2023-08-01 12:01:37,833 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:01:37,871 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 12:01:37,872 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:01:37,872 - get_complaints - DEBUG - {'_id': ObjectId('64c8822d72ccfa69159d37d2'), 'name': 'user2', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'wtwttw', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'nvnvh', 'isSolved': True}
+2023-08-01 12:01:37,872 - get_complaints - DEBUG - {'_id': ObjectId('64c8824572ccfa69159d37d3'), 'name': 'user4', 'aadhaar': '984562031756', 'phoneNumber': '9846064634', 'address': 'wtwttw', 'email': 'dfdf@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv', 'isSolved': True}
+2023-08-01 12:08:27,067 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:08:27,104 - get_complaints - DEBUG - Number of complaints retrieved: 0
+2023-08-01 12:08:27,104 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:08:27,485 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:08:27,524 - get_complaints - DEBUG - Number of complaints retrieved: 0
+2023-08-01 12:08:27,524 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:08:27,735 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:08:27,773 - get_complaints - DEBUG - Number of complaints retrieved: 0
+2023-08-01 12:08:27,775 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:08:30,719 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:08:30,756 - get_complaints - DEBUG - Number of complaints retrieved: 0
+2023-08-01 12:08:30,757 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:08:30,987 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:08:31,023 - get_complaints - DEBUG - Number of complaints retrieved: 0
+2023-08-01 12:08:31,023 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:08:31,124 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:08:31,162 - get_complaints - DEBUG - Number of complaints retrieved: 0
+2023-08-01 12:08:31,162 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:10:17,667 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:10:17,704 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 12:10:17,705 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:10:17,705 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 12:10:17,925 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:10:17,962 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 12:10:17,962 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:10:17,962 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 12:10:18,096 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:10:18,133 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 12:10:18,133 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:10:18,133 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 12:11:25,253 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:11:25,293 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 12:11:25,294 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:11:25,294 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 12:11:25,666 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:11:25,703 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 12:11:25,704 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:11:25,704 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 12:11:25,928 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 12:11:25,967 - get_complaints - DEBUG - Number of complaints retrieved: 1
+2023-08-01 12:11:25,968 - get_complaints - DEBUG - Complaints data:
+2023-08-01 12:11:25,968 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv'}
+2023-08-01 15:31:02,964 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:31:03,015 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:31:03,015 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:31:03,015 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv', 'isSolved': True}
+2023-08-01 15:31:03,015 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls'}
+2023-08-01 15:31:03,233 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:31:03,274 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:31:03,274 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:31:03,276 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv', 'isSolved': True}
+2023-08-01 15:31:03,276 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls'}
+2023-08-01 15:31:03,587 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:31:03,628 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:31:03,628 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:31:03,628 - get_complaints - DEBUG - {'_id': ObjectId('64c8a8bd38827ecd85a59697'), 'name': 'afna', 'aadhaar': '984562031756', 'phoneNumber': '9745046341', 'address': 'home no1, changanachery', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'xvxvxv', 'isSolved': True}
+2023-08-01 15:31:03,629 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls'}
+2023-08-01 15:32:39,531 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:32:39,575 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:32:39,575 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:32:39,575 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls'}
+2023-08-01 15:32:39,575 - get_complaints - DEBUG - {'_id': ObjectId('64c8d8311a65498f8f9d5a87'), 'name': 'user2', 'aadhaar': '123456786910', 'phoneNumber': '1234569870', 'address': 'house 1', 'email': 'user2@gmail.com', 'date': '01-08-2023', 'category': 'Other', 'complaint': 'seeds unavailable'}
+2023-08-01 15:32:40,111 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:32:40,154 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:32:40,154 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:32:40,155 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls'}
+2023-08-01 15:32:40,155 - get_complaints - DEBUG - {'_id': ObjectId('64c8d8311a65498f8f9d5a87'), 'name': 'user2', 'aadhaar': '123456786910', 'phoneNumber': '1234569870', 'address': 'house 1', 'email': 'user2@gmail.com', 'date': '01-08-2023', 'category': 'Other', 'complaint': 'seeds unavailable'}
+2023-08-01 15:32:40,376 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:32:40,418 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:32:40,419 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:32:40,420 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls'}
+2023-08-01 15:32:40,420 - get_complaints - DEBUG - {'_id': ObjectId('64c8d8311a65498f8f9d5a87'), 'name': 'user2', 'aadhaar': '123456786910', 'phoneNumber': '1234569870', 'address': 'house 1', 'email': 'user2@gmail.com', 'date': '01-08-2023', 'category': 'Other', 'complaint': 'seeds unavailable'}
+2023-08-01 15:59:15,713 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:59:15,761 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:59:15,761 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:59:15,763 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls', 'isSolved': True}
+2023-08-01 15:59:15,763 - get_complaints - DEBUG - {'_id': ObjectId('64c8d8311a65498f8f9d5a87'), 'name': 'user2', 'aadhaar': '123456786910', 'phoneNumber': '1234569870', 'address': 'house 1', 'email': 'user2@gmail.com', 'date': '01-08-2023', 'category': 'Other', 'complaint': 'seeds unavailable'}
+2023-08-01 15:59:16,271 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:59:16,312 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:59:16,312 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:59:16,313 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls', 'isSolved': True}
+2023-08-01 15:59:16,313 - get_complaints - DEBUG - {'_id': ObjectId('64c8d8311a65498f8f9d5a87'), 'name': 'user2', 'aadhaar': '123456786910', 'phoneNumber': '1234569870', 'address': 'house 1', 'email': 'user2@gmail.com', 'date': '01-08-2023', 'category': 'Other', 'complaint': 'seeds unavailable'}
+2023-08-01 15:59:16,537 - get_complaints - DEBUG - get_complaints function called
+2023-08-01 15:59:16,579 - get_complaints - DEBUG - Number of complaints retrieved: 2
+2023-08-01 15:59:16,579 - get_complaints - DEBUG - Complaints data:
+2023-08-01 15:59:16,579 - get_complaints - DEBUG - {'_id': ObjectId('64c8d72f1a65498f8f9d5a86'), 'name': 'user1', 'aadhaar': 'xxxxxxxxxxxx', 'phoneNumber': '1234569875', 'address': 'sample address', 'email': 'user1@gmail.com', 'date': '01-08-2023', 'category': 'Call/ SMS Service Unavailable', 'complaint': 'not recieving calls', 'isSolved': True}
+2023-08-01 15:59:16,580 - get_complaints - DEBUG - {'_id': ObjectId('64c8d8311a65498f8f9d5a87'), 'name': 'user2', 'aadhaar': '123456786910', 'phoneNumber': '1234569870', 'address': 'house 1', 'email': 'user2@gmail.com', 'date': '01-08-2023', 'category': 'Other', 'complaint': 'seeds unavailable'}
