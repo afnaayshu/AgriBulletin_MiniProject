@@ -1,1 +1,0 @@
-# AgriBulletin_MiniProject
